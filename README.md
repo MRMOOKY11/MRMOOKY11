@@ -1,5 +1,5 @@
 # 💫Hello I'm Mohamed Salah :
- ###                                                           🔭 Software Engineer | Junior .NET Backend Developer 👨🏽‍💻<br>
+###🔭 Software Engineer | Junior .NET Backend Developer 👨🏽‍💻<br> :
 
 
 ## 🌐 Socials:
