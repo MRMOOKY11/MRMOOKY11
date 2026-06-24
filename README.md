@@ -1,28 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohamed Salah
-======================================================================================================================================
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Mohamed%20Salah&fontSize=50&fontColor=fff&animation=fadeIn)
 
-Software Engineer | Junior .NET Backend Developer
--------------------------------------------------
+<div align="center">
 
-* 🌍  I'm based in Egypt / Giza
-* ✉️  You can contact me at [medosasa135a@gmail.com](mailto:medosasa135a@gmail.com)
-* 👥  I'm looking to collaborate on Saas Projects | Web Applications | Mobile Applications
+### .Net Backend Developer | Egypt,Giza
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+Aspiring .NET Backend Developer passionate about building scalable backend applications using C# and ASP.NET Core.
+ 
+Currently learning backend development, databases, APIs, Git, and software engineering best practices.
+ 
+Interested in Web Development, Cloud Technologies, and DevOps.
+ 
+Open to internships, junior opportunities, and collaboration on software projects.
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/MRMOOKY11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/mohamed-salah-backend" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/creed1x1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/profile.php?id=100089550162011" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/MRMOOKY11" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MRMOOKY11?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 💻 Tech Stack
 
-<a href="http://www.github.com/MRMOOKY11"><img src="https://github-readme-stats.vercel.app/api?username=MRMOOKY11&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="MRMOOKY11's GitHub stats" /></a>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-333?style=for-the-badge&logo=entityframeworkcore&logoColor=white) ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-333?style=for-the-badge&logo=aspdotnetcorewebapi&logoColor=white) ![Authentication & JWT](https://img.shields.io/badge/Authentication%20%26%20JWT-333?style=for-the-badge&logo=authentication&jwt&logoColor=white) ![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-333?style=for-the-badge&logo=sqlserver&logoColor=white) ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-333?style=for-the-badge&logo=git&github&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-333?style=for-the-badge&logo=restapis&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![O.O.P](https://img.shields.io/badge/O.O.P-333?style=for-the-badge&logo=odotodotp&logoColor=white)
 
-<a href="http://www.github.com/MRMOOKY11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MRMOOKY11&stroke=a855f7&background=000000&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+---
 
-<a href="https://github.com/MRMOOKY11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRMOOKY11&langs_count=10&title_color=a855f7&text_color=a855f7&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRMOOKY11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRMOOKY11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medosasa135a@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-salah-backend) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRMOOKY11)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
